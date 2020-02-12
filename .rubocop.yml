@@ -480,3 +480,15 @@ Style/IfWithSemicolon:
 
 Style/Encoding:
   Enabled: false
+
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+Lint/BooleanSymbol:
+  Enabled: false
