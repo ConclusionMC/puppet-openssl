@@ -492,3 +492,6 @@ Metrics/PerceivedComplexity:
 
 Lint/BooleanSymbol:
   Enabled: false
+
+Style/SymbolProc:
+  Enabled: false
